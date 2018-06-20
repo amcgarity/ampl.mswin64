@@ -1,0 +1,1 @@
+# ampl.mswin64
